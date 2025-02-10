@@ -2,7 +2,7 @@
 
 * Студент: [Полина Стерлигова](https://up.htmlacademy.ru/htmlcss-individual/2/user/2564637).
 * Наставник: [Анна Лисененкова](https://htmlacademy.ru/profile/ankhena)
-* Проект:
+* Проект: [Седона](https://taarde.github.io/2564637-sedona-2/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
